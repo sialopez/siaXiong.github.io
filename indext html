@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title></title>
+	</head>
+	<body>
+		<div id="header">
+			<p id="name">sia Xiong</p>
+			<a href="mailto:sxiong8908@yahoo.com"><p id="email">you@yourdomain.com</p></a>
+		</div>
+		<div class="left"></div>
+		<div class="right">
+			<h4>Objective</h4>
+			<p>To take a position as a software engineer.</p>
+			<h4>Experience</h4>
+			<p>Administration assisting and front desk</p>
+			<ul>
+				<li>Advance knowledge of all clerical duties</li>
+				<li>Ablity to handle multi phone calls </li>
+			</ul>
+			<h4>Skills</h4>
+			<p>knowledge of microsoft</p>
+			<p>bilangual</p>
+			<h4>Education</h4>
+			<p>HS Diploma, Sunnuside High and some college </p>
+			<ul>
+				<li>Award for most Creative </li>
+				<li>GPA: 3.0</li>
+			</ul>
+		</div>
+		<div id="footer">
+			<p>3474 e Florador Avenue Fresno CA (3703 | Tel: (559) 666-0267</p>
+		</div>
+	</body>
+</html>
